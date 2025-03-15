@@ -8,7 +8,7 @@ h1 {
     text-align:center;
 }
 h2 {
-    color:tomato;
+    color:blue;
     font-family:courier;
 }
 p {
@@ -22,7 +22,7 @@ a{
     
 }
 a:hover {
-    color:hotpink;
+    color:tomato;
 }
 
 button {
